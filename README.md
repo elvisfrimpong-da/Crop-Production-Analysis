@@ -24,7 +24,8 @@ This project explores crop production data to uncover insights on crop diversity
 ## 🛠️ Tools & Skills Used
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Agricultural skills
+- Agricultural Data Interpretation & Analysis
+  
 
 ## Power BI – dashboard creation & visualization
 
