@@ -42,9 +42,10 @@ Opportunities for improving agricultural efficiency
 **This analysis can support policy makers, agricultural planners, and researchers in making informed decisions on resource allocation, crop planning, and food security strategies.**
 
 ## 📷 Dashboard Snapshots  
-
 - **Overview Dashboard**  
-  ![Dashboard Overview](screenshots/dashboard_overview.png)  
+   <img width="1382" height="760" alt="dashboard_overview" src="https://github.com/user-attachments/assets/3491e5a1-8897-4508-b882-b53da870a5ec" />
+
+
 
 - **Detailed Analysis**  
-  ![Detailed Analysis](screenshots/detailed_analysis.png)  
+  <img width="1441" height="866" alt="detailed_analysis" src="https://github.com/user-attachments/assets/05eb3993-4813-4b00-990f-6042e4ecde32" />
