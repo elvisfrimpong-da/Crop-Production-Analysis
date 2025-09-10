@@ -28,9 +28,9 @@ This project explores crop production data to uncover insights on crop diversity
 
 ## Power BI – dashboard creation & visualization
 
-- DAX (Data Analysis Expressions) – calculated measures for efficiency & trends
--Data Cleaning & Transformation – prepared raw production data for analysis
--Geospatial Mapping – visualized crop production by state & district
+- DAX (Data Analysis Expressions); calculated measures for efficiency & trends
+- Data Cleaning & Transformation; prepared raw production data for analysis
+- Geospatial Mapping; visualized crop production by state & district
 
 ## 🚀 Outcome
 The final dashboard provides a holistic view of crop production by highlighting:
