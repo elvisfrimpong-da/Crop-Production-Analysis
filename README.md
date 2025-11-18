@@ -35,10 +35,10 @@ This project explores crop production data to uncover insights on crop diversity
 
 ## 🚀 Outcome
 The final dashboard provides a holistic view of crop production by highlighting:
-The most productive crops and regions
-Seasonal performance trends across years
-Top-performing districts and states
-Opportunities for improving agricultural efficiency
+- The most productive crops and regions
+- Seasonal performance trends across years
+- Top-performing districts and states
+- Opportunities for improving agricultural efficiency
 
 **This analysis can support policy makers, agricultural planners, and researchers in making informed decisions on resource allocation, crop planning, and food security strategies.**
 
