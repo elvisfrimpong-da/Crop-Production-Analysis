@@ -13,7 +13,7 @@ This project explores crop production data to uncover insights on crop diversity
 ## 📊 Key Metrics
 
 - Crop Diversity Index: 124
-- Crop Efficiency: 44.01
+- Crop Efficiency: 44.01%
 - Top Crop: Coconut
 - Top Producing State: Kerala
 - Total Production by Area: 7.56M (Goal: 6.80M, +11.11%)
